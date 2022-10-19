@@ -1,0 +1,11 @@
+{
+    "name": "Publish to NPM from Relase",
+    "description": "Build specific version of the package read from the release.",
+    "categories": [
+        "JavaScript",
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
